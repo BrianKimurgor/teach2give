@@ -1,4 +1,4 @@
-#FIZZBUZZ explanation
+# FIZZBUZZ explanation
 
 ## explanation
  This code is a Python program that follows the FizzBuzz challenge but has an added function to test the output for a given range of numbers.
@@ -13,7 +13,7 @@ The FizzBuzz function takes an integer num as input and returns a string based o
 - If none of the above conditions are met, return the input number as a string.
 - The test_fizzbuzz function tests the FizzBuzz function by printing its output for numbers in the range from 1 to the given max_num.
 
-###Testing
+### Testing
 - go to the FizzBuzz directory
 - to test the code with the test file, run:
 ```Python

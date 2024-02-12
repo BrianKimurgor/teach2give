@@ -1,5 +1,5 @@
 # TEACH2GIVE TECHNICAL TEST
-Every folder represents each task each having:
+Every directory represents each task each having:
 - main file
 - test file
 - readme file for Explanation

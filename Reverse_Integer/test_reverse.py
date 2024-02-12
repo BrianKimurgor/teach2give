@@ -6,6 +6,7 @@ class TestReverseDigits(unittest.TestCase):
         self.assertEqual(reverse_digits(12345), 54321)
         self.assertEqual(reverse_digits(6789), 9876)
         self.assertEqual(reverse_digits(0), 0)
+        self.assertEqual(reverse_digits(-56), -65)
         self.assertEqual(reverse_digits(1), 1)
 
 if __name__ == '__main__':

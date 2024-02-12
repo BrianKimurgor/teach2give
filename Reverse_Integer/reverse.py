@@ -7,4 +7,7 @@ ordering.
 
 def reverse_digits(num):
     """Reverses the digit ordering of an integer."""
-    return int(str(num)[::-1])
+    if num < 0:
+        return -int(str(-num)[::-1])
+    else:
+        return int(str(num)[::-1])

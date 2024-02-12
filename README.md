@@ -8,6 +8,6 @@ To run these on your local machine:
 - clone this repo:
 ```python
     git clone https://github.com/BrianKimurgor/teach2give.git
-    ```
+```
 
 - navigate to every directory and follow instructions on the readme files in them.

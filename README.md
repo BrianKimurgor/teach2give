@@ -1,4 +1,4 @@
-# This is a repository for the TEACH2GIVE TECHNICAL TEST
+# TEACH2GIVE TECHNICAL TEST
 Every folder represents each task each having:
 - main file
 - test file
